@@ -67,3 +67,6 @@ import (the module)
 ```
 
 Understood? Ok, now let's start by doing our first challenge! For that, go to `Challenges > Noobs > The Start` and start opening the `Challenge.md` file.
+
+
+GOOD LUCK, MY DEAR HACKER!
