@@ -23,8 +23,19 @@ As you know, hacking has converted a very important tool in our lifes. With hack
 
 If you don't know, a server is a computer or computer program which manages access to a centralized resource or service in a network. Remember: servers can also be hacked. You need to also learn how to securely protect your server and how to prevent itself and automate it from unknown attacks.
 
-# Setting it all up
+# Setting it all up - Inventing a `name` to our server
 
 Let's start by opening this `test.zo` file and start coding it. The firts thing you need to do is give a name to your server. Advices:
 
 - Give a name which **NOBODY** has it yet. I'm gonna be listing in an other file all the servers names.
+- Invent an original name. Please, don't search on Google "popular nicknames", because I will notice. Those nicknames are already choosed by someone (mainly, the person who was invented them), so, please, just think for a few minutes and type your new server name!
+
+# Importing modules and more boring stuff
+
+Have you chosen the name? FANTASTIC! We can now start by coding our new `test.zo` hacking file. For security problems, just turn off Internet and download this into your computer. The police can trace us in any moment.
+
+In your `test.zo` file, start by importing all the modules that we will need. The first module that we will need is our `server-configuration.pckg`. Just type: `get server-configuration.pckg` in the first line of your code, like this:
+
+``zo
+get server-configuration.pckg
+```
