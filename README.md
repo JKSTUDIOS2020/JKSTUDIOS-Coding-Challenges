@@ -37,7 +37,19 @@ Have you chosen the name? FANTASTIC! We can now start by coding our new `test.zo
 In your `test.zo` file, start by importing all the modules that we will need. The first module that we will need is our `server-configuration.pckg`. Just type: `get server-configuration.pckg` in the first line of your code, like this:
 
 ```console
-get server-configuration.pckg
+admin@hackzo:~$ get server-configuration.pckg
+Reading 1000 MB from server-configuration.pckg...
+Getting server-atp (20MB)... [50%]
+Getting server-atp... [100%]
+Done getting server-atp.
+Getting server-zo (1MB)... [100%]
+Done getting server-zo.
+Getting server-dll (79MB)... [20%]
+Getting server-dll... [50%]
+Getting server-dll... [100%]
+Done getting server-dll.
+Done getting server-configuration.pckg.
+Installation complete.
 ```
 
 With that done, you can continue by importing other very important module, which is important in the hacking.
