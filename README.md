@@ -49,3 +49,21 @@ Done getting server-dll.
 Done getting server-configuration.pckg.
 Installation complete.
 ```
+
+Now, with that completed, you can know start by opening the `test.zo` file, because we are prepared now to code!
+
+# Coding the basic
+
+The first thing you need to do, it import the module that we have installed. Import it like this:
+
+```
+read server-configuration
+```
+
+The `read` command, is like an `import` in python. For example:
+
+```python
+import (the module)
+```
+
+Understood? Ok, now let's start by doing our first challenge! For that, go to `Challenges > Noobs > The Start` and start opening the `Challenge.md` file.
