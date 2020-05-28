@@ -32,9 +32,7 @@ Let's start by opening this `test.zo` file and start coding it. The firts thing 
 
 # Importing modules and more boring stuff
 
-Have you chosen the name? FANTASTIC! We can now start by coding our new `test.zo` hacking file. For security problems, just turn off Internet and download this into your computer. The police can trace us in any moment.
-
-In your `test.zo` file, start by importing all the modules that we will need. The first module that we will need is our `server-configuration.pckg`. Just type: `get server-configuration.pckg` in the first line of your code, like this:
+Have you chosen the name? FANTASTIC! We can start opening my terminal, it is in a file called `terminal.py`. Download and run it. Once you have done that, type in the terminal: `get server-configuration.pckg` and hit enter. Wait to it to install. You should see a verified installation message, such as the one below.
 
 ```console
 admin@hackzo:~$ get server-configuration.pckg
@@ -51,5 +49,3 @@ Done getting server-dll.
 Done getting server-configuration.pckg.
 Installation complete.
 ```
-
-With that done, you can continue by importing other very important module, which is important in the hacking.
