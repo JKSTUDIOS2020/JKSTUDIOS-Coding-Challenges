@@ -70,3 +70,5 @@ Understood? Ok, now let's start by doing our first challenge! For that, go to `C
 
 
 # GOOD LUCK, MY DEAR HACKER!
+
+Note: on the first challenge you will see a `Tutorial.md` file. Open that for knowing how to hack and how to break into some other companies like a pro :)
