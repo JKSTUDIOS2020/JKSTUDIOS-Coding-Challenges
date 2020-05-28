@@ -36,4 +36,6 @@ Have you chosen the name? FANTASTIC! We can now start by coding our new `test.zo
 
 In your `test.zo` file, start by importing all the modules that we will need. The first module that we will need is our `server-configuration.pckg`. Just type: `get server-configuration.pckg` in the first line of your code, like this:
 
-`diff + get # server-configuration.pckg`
+```diff
++ get # server-configration.pckg
+```
