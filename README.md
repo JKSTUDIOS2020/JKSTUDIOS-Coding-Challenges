@@ -69,4 +69,4 @@ import (the module)
 Understood? Ok, now let's start by doing our first challenge! For that, go to `Challenges > Noobs > The Start` and start opening the `Challenge1.md` file. IMPORTANT! Ignore the `x.gitkeep` files.
 
 
-GOOD LUCK, MY DEAR HACKER!
+# GOOD LUCK, MY DEAR HACKER!
